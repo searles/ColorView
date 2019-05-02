@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ColorView</string>
+    <string name="enter_color">Enter color name</string>
+</resources>
